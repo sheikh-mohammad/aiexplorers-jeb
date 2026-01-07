@@ -1,4 +1,4 @@
-Class 3 and 4 (ai-explorers-3-4.jeb.web.app)
+Class 3 and 4 (aiexplorers-3.jeb.web.app)
 
 1. Windows
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
@@ -14,7 +14,7 @@ Class 3 and 4 (ai-explorers-3-4.jeb.web.app)
 12. MS Office (Intermediate)
 13. Google Site
 
-Class 5 (ai-explorers-5.jeb.web.app)
+Class 5 (aiexplorers-5.jeb.web.app)
 
 1. Windows
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
@@ -33,7 +33,7 @@ Class 5 (ai-explorers-5.jeb.web.app)
 15. Netlify/Vercel/GitHub Page
 16. VS Code
 
-Class 6 and 7 (ai-explorers-6-7.jeb.web.app)
+Class 6 and 7 (aiexplorers-6-7.jeb.web.app)
 
 1. IDEs (VS Code, Antigravity)
 2. Python
