@@ -3,20 +3,34 @@
 1. Hardware and Software (Intermediate)
 2. Paint (Advance)
 3. Social Media Account
-4. digital security 
-5. word(advance)
-6. scratch:junior(advance)
-7. How AI works(ARCHITECTURES BASICS)
-8. AI Chatbot ,Claude,gpt,gemini,grok (advance)
-9. llms(basics)
-10. windows file management(advance)
-11. teachable machine(intermediate)
+4. Digital Security
+5. Word (Advance)
+6. Scratch Junior (Advance)
+7. How AI works (ARCHITECTURES BASICS)
+8. AI Chatbot, Claude, GPT, Gemini, Grok (Advance)
+9. LLMs (Basics)
+10. Windows File Management (Advance)
+11. Teachable Machine(Basic)
+
+## Class 2
+
+1. Hardware and Software (Intermediate)
+2. Paint (Advance)
+3. Social Media Account
+4. Digital Security
+5. Word (Advance)
+6. Scratch Junior (Advance)
+7. How AI works (ARCHITECTURES BASICS)
+8. AI Chatbot, Claude, GPT, Gemini, Grok (Advance)
+9. LLMs (Basics)
+10. Windows File Management (Advance)
+11. Teachable Machine(Basic)
 
 ## Class 3
 
 1. Windows (Basic)
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
-3. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
+3. AI Chatbots: Chat GPT, Claude, Gemini, Grok
 4. Prompt Engineering
 5. Canva
 6. Scratch
