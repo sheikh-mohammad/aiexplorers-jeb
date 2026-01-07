@@ -45,6 +45,16 @@
 
 ## Class 6
 
+1. Windows (Intermediate)
+2. MS Office (Intermediate)
+3. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
+4. IDEs ((VS Code, Antigravity)
+5. Python (Basics)
+6. Google Colab
+7. LLMs
+8. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
+9. Prompt Engineering
+10. Vibe Coding for UI
 
 ## Class 7
 
