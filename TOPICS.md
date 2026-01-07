@@ -1,4 +1,5 @@
 ## Class 3
+
 1. Windows (Basic)
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
 3. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
