@@ -43,7 +43,10 @@
 14. **Hosting:** Netlify/Vercel/GitHub Page
 15. VS Code
 
-## Class 6 and 7
+## Class 6
+
+
+## Class 7
 
 1. IDEs (VS Code, Antigravity)
 2. Python
