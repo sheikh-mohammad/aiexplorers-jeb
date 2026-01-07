@@ -1,20 +1,30 @@
 ## Class 3 (aiexplorers-3.jeb.web.app)
 
-1. Windows
+1. Windows (Basic)
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
-3. Prompt Engineering
-4. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
-5. Teachable Machine (Advance)
-6, Vibe Coding
-7. Canva
-8. n8n (intermediate)
-9. Gemini CLI / Qwen CLI
-10. Scratch
-11. Google Classroom
-12. MS Office (Intermediate)
-13. Google Site
+3. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
+4. Prompt Engineering
+5. Canva
+6. Scratch
+7. Google Classroom
+8. MS Office (Basic)
+9. Google Sites
 
 ## Class 4 (aiexplorers-4.jeb.web.app)
+
+1. Windows (Intermediate)
+2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
+3. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
+4. Prompt Engineering
+5. Teachable Machine (Advance)
+6. Scratch
+7, Vibe Coding
+8. Canva
+9. n8n (intermediate)
+10. Gemini CLI / Qwen CLI
+11. MS Office (Intermediate)
+12. Google Classroom
+13. Google Site
 
 ## Class 5 (aiexplorers-5.jeb.web.app)
 
