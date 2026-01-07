@@ -1,3 +1,17 @@
+## Class 1
+
+1. Hardware and Software (Intermediate)
+2. Paint (Advance)
+3. Social Media Account
+4. digital security 
+5. word(advance)
+6. scratch:junior(advance)
+7. How AI works(ARCHITECTURES BASICS)
+8. AI Chatbot ,Claude,gpt,gemini,grok (advance)
+9. llms(basics)
+10. windows file management(advance)
+11. teachable machine(intermediate)
+
 ## Class 3
 
 1. Windows (Basic)
