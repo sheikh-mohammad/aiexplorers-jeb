@@ -1,4 +1,4 @@
-Class 3 and 4 (aiexplorers-3.jeb.web.app)
+Class 3 (aiexplorers-3.jeb.web.app)
 
 1. Windows
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
@@ -13,6 +13,8 @@ Class 3 and 4 (aiexplorers-3.jeb.web.app)
 11. Google Classroom
 12. MS Office (Intermediate)
 13. Google Site
+
+Class 4 (aiexplorers-4.jeb.web.app)
 
 Class 5 (aiexplorers-5.jeb.web.app)
 
