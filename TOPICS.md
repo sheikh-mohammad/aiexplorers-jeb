@@ -1,5 +1,4 @@
-## Class 3 (aiexplorers-3.jeb.web.app)
-
+## Class 3
 1. Windows (Basic)
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
 3. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
@@ -10,7 +9,7 @@
 8. MS Office (Basic)
 9. Google Sites
 
-## Class 4 (aiexplorers-4.jeb.web.app)
+## Class 4
 
 1. Windows (Intermediate)
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
@@ -26,7 +25,7 @@
 12. Google Classroom
 13. Google Site
 
-## Class 5 (aiexplorers-5.jeb.web.app)
+## Class 5
 
 1. Windows (Intermediate)
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
@@ -44,7 +43,7 @@
 14. **Hosting:** Netlify/Vercel/GitHub Page
 15. VS Code
 
-## Class 6 and 7 (aiexplorers-6-7.jeb.web.app)
+## Class 6 and 7
 
 1. IDEs (VS Code, Antigravity)
 2. Python
