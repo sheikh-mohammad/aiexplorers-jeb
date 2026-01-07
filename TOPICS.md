@@ -33,7 +33,7 @@
 3. Prompt Engineering
 4. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
 5. Teachable Machine (Advance)
-6, Vibe Coding
+6. Vibe Coding
 7. Canva
 8. n8n (intermediate)
 9. Gemini CLI / Qwen CLI
