@@ -28,22 +28,21 @@
 
 ## Class 5 (aiexplorers-5.jeb.web.app)
 
-1. Windows
+1. Windows (Intermediate)
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
 3. Prompt Engineering
 4. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
 5. Teachable Machine (Advance)
 6. Vibe Coding
 7. Canva
-8. n8n (intermediate)
-9. Gemini CLI / Qwen CLI
+8. n8n (Intermediate)
+9. **CLI Agent:** Gemini CLI / Qwen CLI
 10. Google Classroom
-11. MS Office (Intermediate)
-12. Google Site
-13. HTML/CSS/JS (intermediate)
-14. Git/GitHub
-15. Netlify/Vercel/GitHub Page
-16. VS Code
+11. **MS Office:** Word, Excel (Intermediate)
+12. **Web Development:** HTML/CSS/JS (intermediate)
+13. **Version:** Git/GitHub
+14. **Hosting:** Netlify/Vercel/GitHub Page
+15. VS Code
 
 ## Class 6 and 7 (aiexplorers-6-7.jeb.web.app)
 
