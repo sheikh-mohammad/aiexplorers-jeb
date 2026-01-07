@@ -61,9 +61,9 @@
 1. IDEs (VS Code, Antigravity)
 2. Python
 3. Google Colab
-4. Crew AI
-5. Streamlit
-6. LLMS
+4. LLMs
+5. Crew AI
+6. Streamlit
 7. Prompt and Context Engineering
 8. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
 9. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
