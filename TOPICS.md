@@ -58,18 +58,18 @@
 
 ## Class 7
 
-1. IDEs (VS Code, Antigravity)
-2. Python
-3. Google Colab
-4. LLMs
-5. Crew AI
-6. Streamlit
-7. Prompt and Context Engineering
-8. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
-9. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
-10. Git / GitHub
-11. Fast API
-12. Gemini CLI / Qwen CLI
-13. MS Office (Intermediate)
-14. Windows
+1. Windows
+2. MS Office (Intermediate)
+3. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
+4. IDEs (VS Code, Antigravity)
+5. Python
+6. Google Colab
+7. Gemini CLI / Qwen CLI
+8. LLMs
+9. Crew AI
+10. Streamlit
+11. Prompt and Context Engineering
+12. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
+13. Git / GitHub
+14. Fast API
 15. Vibe Coding for UI
