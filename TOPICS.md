@@ -45,15 +45,16 @@
 
 1. Windows (Intermediate)
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
-3. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
+11. MS Office (Intermediate)
+7. How AI works (ARCHITECTURES BASICS)
+9. LLMs (Basics)
 4. Prompt Engineering
+3. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
 5. Teachable Machine (Advance)
-6. Scratch
 7, Vibe Coding
 8. Canva
 9. n8n (intermediate)
 10. Gemini CLI / Qwen CLI
-11. MS Office (Intermediate)
 12. Google Classroom
 13. Google Site
 
