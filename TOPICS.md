@@ -84,17 +84,16 @@
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
 3. Prompt Engineering
 4. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
-5. Teachable Machine (Advance)
 6. Vibe Coding
+15. VS Code
 7. Canva
 8. n8n (Intermediate)
 9. **CLI Agent:** Gemini CLI / Qwen CLI
 10. Google Classroom
 11. **MS Office:** Word, Excel (Intermediate)
-12. **Web Development:** HTML/CSS/JS (intermediate)
+12. **Web Development:** HTML/CSS/Tailwind/JS/React (intermediate)
 13. **Version:** Git/GitHub
 14. **Hosting:** Netlify/Vercel/GitHub Page
-15. VS Code
 
 ## Class 7
 
