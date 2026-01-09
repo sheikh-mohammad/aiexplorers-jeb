@@ -64,11 +64,14 @@
 2. MS Office (Intermediate)
 3. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
 4. IDEs (VS Code, Antigravity)
-5. Python (Basics)
 6. Google Colab
+5. Python (Basics)
+6. Pydantic
+7. Streamlit
+8. Fast API
 7. LLMs
-8. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
 9. Prompt Engineering
+8. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
 10. Canva
 11. n8n (intermediate)
 12. Vibe Coding for UI
