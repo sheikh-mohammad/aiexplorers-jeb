@@ -15,16 +15,16 @@
 ## Class 2
 
 1. Hardware and Software (Intermediate)
+10. Windows File Management (Advance)
 2. Paint (Advance)
 3. Social Media Account
 4. Digital Security
 5. Word (Advance)
 6. Scratch Junior (Advance)
 7. How AI works (ARCHITECTURES BASICS)
-8. AI Chatbot, Claude, GPT, Gemini, Grok (Advance)
 9. LLMs (Basics)
-10. Windows File Management (Advance)
-11. Teachable Machine(Basic)
+8. AI Chatbot, Claude, GPT, Gemini, Grok (Advance)
+11. Teachable Machine(Intermediate)
 
 ## Class 3
 
