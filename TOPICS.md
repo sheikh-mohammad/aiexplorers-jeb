@@ -30,13 +30,16 @@
 
 1. Windows (Basic)
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
-3. AI Chatbots: Chat GPT, Claude, Gemini, Grok
+7. How AI works (ARCHITECTURES BASICS)
+9. LLMs (Basics)
 4. Prompt Engineering
+3. AI Chatbots: Chat GPT, Claude, Gemini, Grok
 5. Canva
 6. Scratch
 7. Google Classroom
-8. MS Office (Basic)
+8. MS Office (Intermediate)
 9. Google Sites
+10. Teachable Machine (Advance)
 
 ## Class 4
 
