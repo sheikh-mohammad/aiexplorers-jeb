@@ -57,6 +57,23 @@
 ## Class 5
 
 1. Windows (Intermediate)
+2. MS Office (Intermediate)
+3. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
+4. IDEs (VS Code, Antigravity)
+5. Python (Basics)
+6. Google Colab
+7. LLMs
+8. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
+9. Prompt Engineering
+10. Canva
+11. n8n (intermediate)
+12. Vibe Coding for UI
+13. Google Classroom
+14. Google Site
+
+## Class 6
+
+1. Windows (Intermediate)
 2. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
 3. Prompt Engineering
 4. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
@@ -71,19 +88,6 @@
 13. **Version:** Git/GitHub
 14. **Hosting:** Netlify/Vercel/GitHub Page
 15. VS Code
-
-## Class 6
-
-1. Windows (Intermediate)
-2. MS Office (Intermediate)
-3. Social Media Accounts (Instagram, Facebook, X, Google, YouTube, LinkedIn)
-4. IDEs ((VS Code, Antigravity)
-5. Python (Basics)
-6. Google Colab
-7. LLMs
-8. AI Chatbots: Chat GPT, Claude, Gemini, Grok.
-9. Prompt Engineering
-10. Vibe Coding for UI
 
 ## Class 7
 
